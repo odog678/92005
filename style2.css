@@ -1,0 +1,194 @@
+.final-showcase,
+.final-showcase * {
+  box-sizing: border-box;
+}
+.final-showcase {
+  background: #e6d3be;
+  height: 1202px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-10 {
+  width: 552px;
+  height: 292px;
+  position: absolute;
+  left: 23px;
+  top: 122px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-18 {
+  background: #ffffff;
+  width: 335px;
+  height: 306px;
+  position: absolute;
+  left: 26px;
+  top: 849px;
+  overflow: hidden;
+}
+.project-goals-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-mauris-et-efficitur-orci-nec-iaculis-nisl-duis-non-orci-sed-tortor-fermentum-volutpat-quis-malesuada-lacus-duis-scelerisque-auctor-magna-quis-hendrerit-curabitur-eget-est-vulputate-mollis-tortor-et-dignissim-risus-donec-lacinia-vestibulum-orci-posuere-congue-tortor-finibus-tincidunt-mauris-a-finibus-ex-nec-hendrerit-odio-aenean-nec-nisi-nisi-mauris-posuere-diam-eu-viverra-fermentum-odio-magna-fringilla-tortor-id-accumsan-tellus-massa-non-tellus-maecenas-cursus-nunc-sollicitudin-commodo-hendrerit-nisl-lectus-fringilla-quam-a-blandit-dolor-libero-eget-neque {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 24px;
+  width: 279px;
+  height: 282px;
+}
+.project-goals-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-mauris-et-efficitur-orci-nec-iaculis-nisl-duis-non-orci-sed-tortor-fermentum-volutpat-quis-malesuada-lacus-duis-scelerisque-auctor-magna-quis-hendrerit-curabitur-eget-est-vulputate-mollis-tortor-et-dignissim-risus-donec-lacinia-vestibulum-orci-posuere-congue-tortor-finibus-tincidunt-mauris-a-finibus-ex-nec-hendrerit-odio-aenean-nec-nisi-nisi-mauris-posuere-diam-eu-viverra-fermentum-odio-magna-fringilla-tortor-id-accumsan-tellus-massa-non-tellus-maecenas-cursus-nunc-sollicitudin-commodo-hendrerit-nisl-lectus-fringilla-quam-a-blandit-dolor-libero-eget-neque-span {
+  font-family: "Inter-Bold", sans-serif;
+  font-weight: 700;
+}
+.project-goals-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-mauris-et-efficitur-orci-nec-iaculis-nisl-duis-non-orci-sed-tortor-fermentum-volutpat-quis-malesuada-lacus-duis-scelerisque-auctor-magna-quis-hendrerit-curabitur-eget-est-vulputate-mollis-tortor-et-dignissim-risus-donec-lacinia-vestibulum-orci-posuere-congue-tortor-finibus-tincidunt-mauris-a-finibus-ex-nec-hendrerit-odio-aenean-nec-nisi-nisi-mauris-posuere-diam-eu-viverra-fermentum-odio-magna-fringilla-tortor-id-accumsan-tellus-massa-non-tellus-maecenas-cursus-nunc-sollicitudin-commodo-hendrerit-nisl-lectus-fringilla-quam-a-blandit-dolor-libero-eget-neque-span2 {
+  font-family: "Inter-Regular", sans-serif;
+}
+.heading {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 194px;
+  top: 253px;
+}
+.primary-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 501px;
+  height: 70px;
+  position: absolute;
+  right: 90px;
+  top: 49px;
+}
+.frame-19 {
+  width: 138px;
+  height: 104px;
+  position: absolute;
+  left: 400px;
+  top: 1043px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-192 {
+  width: 138px;
+  height: 104px;
+  position: absolute;
+  left: 400px;
+  top: 893px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.project-showcase {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 144px;
+  top: 47px;
+}
+.frame-32 {
+  background: #bf6900;
+  width: 520px;
+  height: 305px;
+  position: absolute;
+  left: 50px;
+  top: 433px;
+  overflow: hidden;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-quisque-faucibus-ex-sapien-vitae-pellentesque-sem-placerat-in-id-cursus-mi-pretium-tellus-duis-convallis-tempus-leo-eu-aenean-sed-diam-urna-tempor {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 36px;
+  top: 91px;
+  width: 450px;
+}
+.oliver-williams-chef-downtown-eatery {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 176px;
+  top: 178px;
+  width: 251px;
+  height: 58px;
+}
+.oliver-williams-chef-downtown-eatery-span {
+  font-family: "Inter-Regular", sans-serif;
+}
+.oliver-williams-chef-downtown-eatery-span2 {
+  font-family: "Inter-ExtraBoldItalic", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+.frame-24 {
+  background: #bf6900;
+  padding: 16px 0px 16px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 212px;
+  height: 74px;
+  position: absolute;
+  left: 34px;
+  top: 17px;
+  overflow: hidden;
+}
+.star {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.star2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.star3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.star4 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.star5 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 114px;
+  height: 114px;
+  position: absolute;
+  left: 34px;
+  top: 150px;
+  object-fit: cover;
+}
