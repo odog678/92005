@@ -1,0 +1,73 @@
+.frame-35,
+.frame-35 * {
+  box-sizing: border-box;
+}
+.frame-35 {
+  background: #213b1e;
+  height: 1323px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-18 {
+  background: #ffffff;
+  width: 335px;
+  height: 306px;
+  position: absolute;
+  left: 63px;
+  top: 961px;
+  overflow: hidden;
+}
+.primary-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 501px;
+  height: 70px;
+  position: absolute;
+  right: 570px;
+  top: 49px;
+  color: pink;
+}
+.primary-nav a:visited {
+  color: pink;
+}
+.cars-have-always-fascinated-me-and-3-d-printing-lets-me-bring-that-passion-to-life-by-designing-and-making-car-related-parts-and-models-i-really-enjoy-cars-and-3-d-printing-especially-when-i-can-create-custom-car-parts-or-models-using-my-printer-i-ve-always-been-passionate-about-cars-they-amaze-me-with-their-design-speed-and-how-every-part-works-together-i-also-really-enjoy-3-d-printing-because-it-gives-me-the-chance-to-create-things-from-scratch-combining-these-two-interests-is-especially-exciting-because-i-can-design-and-print-custom-car-parts-models-or-tools-that-relate-to-automotive-projects-it-s-a-fun-and-creative-way-to-learn-more-about-both-technology-and-cars-and-it-makes-my-hobbies-even-more-enjoyable {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 29px;
+  top: 37px;
+  width: 278px;
+  height: 232px;
+}
+.frame-36 {
+  width: 731px;
+  height: 347px;
+  position: absolute;
+  left: 87px;
+  top: 133px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-37 {
+  width: 347px;
+  height: 279px;
+  position: absolute;
+  left: 453px;
+  top: 971px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-38 {
+  width: 694px;
+  height: 335px;
+  position: absolute;
+  left: 106px;
+  top: 553px;
+  overflow: hidden;
+  object-fit: cover;
+}
