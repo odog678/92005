@@ -9,10 +9,10 @@
   overflow: hidden;
 }
 .frame-10 {
-  width: 552px;
-  height: 292px;
+  width: 600px;
+  height: 305px;
   position: absolute;
-  left: 23px;
+  left: 50px;
   top: 122px;
   overflow: hidden;
   object-fit: cover;
@@ -53,7 +53,7 @@
   font-weight: 400;
   position: absolute;
   left: 194px;
-  top: 253px;
+  top: 0px;
 }
 .primary-nav {
   display: flex;
@@ -96,7 +96,7 @@
 }
 .frame-32 {
   background: #bf6900;
-  width: 520px;
+  width: 600px;
   height: 305px;
   position: absolute;
   left: 50px;
