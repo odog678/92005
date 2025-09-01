@@ -25,7 +25,7 @@
   width: 501px;
   height: 70px;
   position: absolute;
-  right: 570px;
+  left: 80px;
   top: 49px;
   color: pink;
 }
@@ -70,4 +70,14 @@
   top: 553px;
   overflow: hidden;
   object-fit: cover;
+}
+.heading {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 144px;
+  top: 7px;
 }

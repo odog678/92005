@@ -10,7 +10,7 @@
   width: 501px;
   height: 70px;
   position: absolute;
-  right: 680px;
+  left: 80px;
   top: 49px;
 }
 .final-home {
@@ -24,8 +24,8 @@
   width: 259px;
   height: 33px;
   position: absolute;
-  left: 45px;
-  top: 21px;
+  left: 335px;
+  top: 7px;
   overflow: hidden;
 }
 .frame-10 {
@@ -257,13 +257,15 @@
 .heading {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 12px;
-  font-weight: 400;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
   position: absolute;
-  left: 194px;
-  top: 0px;
+  left: 144px;
+  top: 7px;
 }
+
+
 ._3-d-printer {
   color: #000000;
   text-align: left;
