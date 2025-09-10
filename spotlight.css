@@ -2,12 +2,14 @@
 .frame-35 * {
   box-sizing: border-box;
 }
+
 .frame-35 {
   background: #213b1e;
   height: 1323px;
   position: relative;
   overflow: hidden;
 }
+
 .frame-18 {
   background: #ffffff;
   width: 335px;
@@ -17,6 +19,7 @@
   top: 961px;
   overflow: hidden;
 }
+
 .primary-nav {
   display: flex;
   flex-direction: row;
@@ -29,9 +32,11 @@
   top: 49px;
   color: pink;
 }
+
 .primary-nav a:visited {
   color: pink;
 }
+
 .cars-story {
   color: #000000;
   text-align: left;
@@ -44,15 +49,17 @@
   width: 278px;
   height: 232px;
 }
+
 .frame-36 {
   width: 730px;
-  
+
   position: absolute;
   left: 100px;
   top: 133px;
   overflow: hidden;
   object-fit: cover;
 }
+
 .frame-37 {
   width: 347px;
   height: 280px;
@@ -62,15 +69,17 @@
   overflow: hidden;
   object-fit: cover;
 }
+
 .frame-38 {
   width: 730px;
-  
+
   position: absolute;
   left: 100px;
   top: 553px;
   overflow: hidden;
   object-fit: cover;
 }
+
 .heading {
   color: #000000;
   text-align: left;
