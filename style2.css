@@ -1,3 +1,6 @@
+p {
+  margin: 5px 0;
+}
 .final-showcase,
 .final-showcase * {
   box-sizing: border-box;
@@ -7,6 +10,7 @@
   height: 1202px;
   position: relative;
   overflow: hidden;
+  font-family: "Inter-Regular", sans-serif;
 }
 .frame-10 {
   width: 600px;
@@ -28,15 +32,13 @@
   overflow: hidden;
   padding: 20px;
 }
-.project-goals-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-mauris-et-efficitur-orci-nec-iaculis-nisl-duis-non-orci-sed-tortor-fermentum-volutpat-quis-malesuada-lacus-duis-scelerisque-auctor-magna-quis-hendrerit-curabitur-eget-est-vulputate-mollis-tortor-et-dignissim-risus-donec-lacinia-vestibulum-orci-posuere-congue-tortor-finibus-tincidunt-mauris-a-finibus-ex-nec-hendrerit-odio-aenean-nec-nisi-nisi-mauris-posuere-diam-eu-viverra-fermentum-odio-magna-fringilla-tortor-id-accumsan-tellus-massa-non-tellus-maecenas-cursus-nunc-sollicitudin-commodo-hendrerit-nisl-lectus-fringilla-quam-a-blandit-dolor-libero-eget-neque {
+.project-goals {
   color: #000000;
   text-align: left;
   font-family: "-", sans-serif;
   font-size: 12px;
   font-weight: 400;
-  position: absolute;
-  left: 24px;
-  top: 24px;
+
   width: 279px;
   height: 282px;
 }
