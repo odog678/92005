@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Train+One&display=swap');
+
 .frame-35,
 .frame-35 * {
   box-sizing: border-box;
@@ -9,6 +11,8 @@
   position: relative;
   overflow: hidden;
 }
+
+
 
 .frame-18 {
   background: #ffffff;
@@ -30,11 +34,15 @@
   position: absolute;
   left: 80px;
   top: 49px;
-  color: pink;
+  
+  font-family: "Bungee Shade";
 }
 
-.primary-nav a:visited {
-  color: pink;
+.primary-nav a {
+    color: #ff2800;
+}
+.primary-nav a:hover {
+    color: #003CFF;
 }
 
 .cars-story {
@@ -81,7 +89,7 @@
 }
 
 .heading {
-  color: #8281ff;
+  color: #f8e823;
   text-align: left;
   font-family: "Inter-Bold", sans-serif;
   font-size: 32px;
@@ -89,4 +97,6 @@
   position: absolute;
   left: 144px;
   top: 7px;
+  font-family: "Train One";
+  font-size: 28px;
 }
